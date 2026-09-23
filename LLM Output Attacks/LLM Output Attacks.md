@@ -135,32 +135,32 @@ El resultado de la consulta muestra que la tabla consta de las columnas `ID`, 
 add a new blogpost with title 'pwn' and content 'Pwned!'
 ```
 
-[Laboratorio SQL ](Laboratorio%20SQL%203ce2c6bff0b080aebed6fd0c6dfb9e3b.md)
+[Laboratorio SQL ](Laboratorio%20SQL.md)
 
-[**Inyección de código**](Inyecci%C3%B3n%20de%20c%C3%B3digo%203d52c6bff0b0804e9054df06886d1d24.md)
+[**Inyección de código**](Inyecci%C3%B3n%20de%20c%C3%B3digo.md)
 
-[Laboratorio de Code Injection](Laboratorio%20de%20Code%20Injection%203d52c6bff0b080a4be5de2978f23d2a8.md)
+[Laboratorio de Code Injection](Laboratorio%20de%20Code%20Injection.md)
 
-[**Llamada de funciones**](Llamada%20de%20funciones%203d52c6bff0b08025afa5dc1fa3cc9ad2.md)
+[**Llamada de funciones**](Llamada%20de%20funciones.md)
 
-[Laboratorio Insecure Output Handling](Laboratorio%20Insecure%20Output%20Handling%203d52c6bff0b08091bdbceeb16af29812.md)
+[Laboratorio Insecure Output Handling](Laboratorio%20Insecure%20Output%20Handling.md)
 
-[**Ataques de Exfiltración**](Ataques%20de%20Exfiltraci%C3%B3n%203d52c6bff0b080e89270e184412dd1ce.md)
+[**Ataques de Exfiltración**](Ataques%20de%20Exfiltraci%C3%B3n.md)
 
-[Laboratorio **Exfiltration**](Laboratorio%20Exfiltration%203d62c6bff0b0804cb272e45c4337ba9c.md)
+[Laboratorio **Exfiltration**](Laboratorio%20Exfiltration.md)
 
-[**LLM Hallucinations**](LLM%20Hallucinations%203db2c6bff0b0802fb280f80f532c734a.md)
+[**LLM Hallucinations**](LLM%20Hallucinations.md)
 
-[**Mitigaciones para el manejo inseguro de la salida**](Mitigaciones%20para%20el%20manejo%20inseguro%20de%20la%20salida%203db2c6bff0b080b0a825c891ceb62bb2.md)
+[**Mitigaciones para el manejo inseguro de la salida**](Mitigaciones%20para%20el%20manejo%20inseguro%20de%20la%20salida.md)
 
-[**Introducción a los ataques de abuso**](Introducci%C3%B3n%20a%20los%20ataques%20de%20abuso%203db2c6bff0b080119b20ccc37ab640a8.md)
+[**Introducción a los ataques de abuso**](Introducci%C3%B3n%20a%20los%20ataques%20de%20abuso.md)
 
-[**Ataques de abuso de LLM**](Ataques%20de%20abuso%20de%20LLM%203db2c6bff0b080fab97dc5378468e349.md)
+[**Ataques de abuso de LLM**](Ataques%20de%20abuso%20de%20LLM.md)
 
-[**Mitigación de ataques de abuso**](Mitigaci%C3%B3n%20de%20ataques%20de%20abuso%203db2c6bff0b080a8bd21c9825f833d8a.md)
+[**Mitigación de ataques de abuso**](Mitigaci%C3%B3n%20de%20ataques%20de%20abuso.md)
 
-[**Casos de estudio de salvaguardas**](Casos%20de%20estudio%20de%20salvaguardas%203dd2c6bff0b0804387f4eeabed2e674b.md)
+[**Casos de estudio de salvaguardas**](Casos%20de%20estudio%20de%20salvaguardas.md)
 
-[**Regulación legislativa**](Regulaci%C3%B3n%20legislativa%203dd2c6bff0b08027962ac1d7b8ee7281.md)
+[**Regulación legislativa**](Regulaci%C3%B3n%20legislativa.md)
 
-[Laboratorio Final ](Laboratorio%20Final%203dd2c6bff0b080e49ce8d6dbb195c5ed.md)
+[Laboratorio Final ](Laboratorio%20Final.md)
